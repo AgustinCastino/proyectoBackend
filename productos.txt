@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cocacola",
+    "precio": 50,
+    "stock": 10,
+    "url": "xxxx",
+    "descripcion": "xxxxx",
+    "codigo": "mmm",
+    "timestamp": 1653541573685
+  }
+]
